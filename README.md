@@ -1,4 +1,5 @@
 # Ultimate Go study guide
+这个项目里有我的学习go和计算机系统的学习笔记。不同的人有不同的学习方式。对我来说，我是通过做和走过的例子来学习的。因此，我尝试着认真做笔记，并直接在源代码上做注释，而不是写出Markdown文件。这样一来，我可以边看边理解每一行代码，同时也能注意到背后的理论。
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/hoanhan101/ultimate-go)
 ](https://goreportcard.com/report/github.com/hoanhan101/ultimate-go)
